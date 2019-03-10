@@ -1,0 +1,26 @@
+{
+  "id": "891c4e4d-63a8-4809-89e8-0f40db1ce65c",
+  "name": "BITOOL",
+  "publisher": "IOL",
+  "brief": "BITOOL",
+  "description": "BITOOL",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "features": "TranslationFile",
+  "showMyCode": true,
+  "target": "Internal",
+  "idRange": {
+    "from": 50000,
+    "to": 50299
+  }
+}
